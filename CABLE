@@ -13,3 +13,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqoFZGCxBr8YhhctM1UBxoMzaho
 #EXTM3U
 #EXTINF:-1 ,HBO
 https://vsd132.mycdn.me/hls/2192818571847.m3u8/sig/lak6dB1UK6M/expires/1647206469254/srcIp/38.10.249.11/clientType/0/srcAg/CHROME_ANDROID/mid/5277479280199/2192818571847_low/index.m3u8?p
+
+#EXTM3U
+#EXTINF:-1 ,WARNER
+https://vsd67.mycdn.me/hls/2316604738132.m3u8/sig/hcQa2XcsyNY/expires/1647208236756/srcIp/38.10.249.9/clientType/0/srcAg/CHROME_ANDROID/mid/3545442819668/2316604738132_low/index.m3u8?p
