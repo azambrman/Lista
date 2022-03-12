@@ -17,3 +17,7 @@ https://vsd132.mycdn.me/hls/2192818571847.m3u8/sig/lak6dB1UK6M/expires/164720646
 #EXTM3U
 #EXTINF:-1 ,WARNER
 https://vsd67.mycdn.me/hls/2316604738132.m3u8/sig/hcQa2XcsyNY/expires/1647208236756/srcIp/38.10.249.9/clientType/0/srcAg/CHROME_ANDROID/mid/3545442819668/2316604738132_low/index.m3u8?p
+
+#EXTM3U
+#EXTINF:-1 ,UNIVERSAL
+https://vsd99.mycdn.me/hls/2316599495252.m3u8/sig/U_mutJ4apBg/expires/1647208789116/srcIp/38.10.249.9/clientType/0/srcAg/CHROME_ANDROID/mid/3545438625364/2316599495252_low/index.m3u8?p
