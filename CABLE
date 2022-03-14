@@ -27,7 +27,11 @@ https://vsd99.mycdn.me/hls/2316599495252.m3u8/sig/AxS2zpnzXYM/expires/1647301732
 https://vsd83.mycdn.me/hls/2192916351559.m3u8/sig/5ived1iZwcQ/expires/1647288976623/srcIp/38.10.249.9/clientType/0/srcAg/CHROME_ANDROID/mid/5277560151623/2192916351559_low/index.m3u8?p
 
 #EXTM3U
-#EXTINF:-1 ,TOONCAST
+#EXTINF:-1 ,TOONCAST (SD)
+https://vsd64.mycdn.me/hls/2327585884715.m3u8/sig/ut4nJvqYtHo/expires/1647368784020/srcIp/38.10.249.11/clientType/0/srcAg/CHROME_ANDROID/mid/4040169102891/2327585884715_low/index.m3u8?p
+
+#EXTM3U
+#EXTINF:-1 ,TOONCAST (HD)
 https://vsd91.mycdn.me/hls/2327585884715.m3u8/sig/gvs1vlyseAA/expires/1647365107555/srcIp/38.10.249.10/clientType/0/srcAg/CHROME_ANDROID/mid/4040169102891/2327585884715_medium/index.m3u8?p
 
 #EXTM3U
