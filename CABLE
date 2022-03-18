@@ -35,6 +35,10 @@ https://vsd83.mycdn.me/hls/2327585884715.m3u8/sig/5W6nqrsNIi0/expires/1647522296
 https://vsd83.mycdn.me/hls/2327585884715.m3u8/sig/5W6nqrsNIi0/expires/1647522296885/srcIp/38.10.249.9/clientType/0/srcAg/CHROME_ANDROID/mid/4040169102891/2327585884715_medium/index.m3u8?p
 
 #EXTM3U
+#EXTINF:-1 ,BITME
+http://23.148.145.49:9001/televall2022/129_.m3u8?token=FKezc8pu1b1Q9NIWljAAJQ&expires=1647617088
+
+#EXTM3U
 #EXTINF:-1 ,VARIADO
 https://vd261.mycdn.me/expires/1647568583486/srcIp/206.62.164.87/srcAg/CHROME_ANDROID/ms/185.226.52.11/type/2/sig/LYxx3lXfk-c/ct/8/urls/45.136.21.6/clientType/0/id/465087761031/video/
 
