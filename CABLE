@@ -4,7 +4,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoEFs50fov_JUok-riHr4F2adRt
 
 #EXTM3U
 #EXTINF:-1 ,INVESTIGATION DISCOVERY
-https://raw.githubusercontent.com/azambrman/Lista/main/ID2.m3u8
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-avc1_1040000=10001.m3u8
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-mp4a_144800_spa=20000.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,TNT
