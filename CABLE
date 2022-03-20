@@ -39,8 +39,8 @@ https://vsd83.mycdn.me/hls/2327585884715.m3u8/sig/5W6nqrsNIi0/expires/1647522296
 http://23.148.145.49:9001/televall2022/129_.m3u8?token=8Sy6yHFvVAfmZhzccSLmYw&expires=1647752343
 
 #EXTM3U
-#EXTINF:-1 ,BITME 2
-http://blackaddon.com/play/zufree-336.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3035
+#EXTINF:-1 ,BITME HD
+http://e10.telerium.link:2052/free10/063/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDEyOjIzOjQwIFBNJmhhc2hfdmFsdWU9SVA0V0MySW40c1V5ajI0c25FUTJtQT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTM3U
 #EXTINF:-1 ,TELEFAMILIA
