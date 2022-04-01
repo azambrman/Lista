@@ -1,6 +1,66 @@
 #EXTM3U
 #EXTINF:-1 ,HISTORY
+#EXTM3U
+#EXTINF:-1 ,HISTORY
 http://e10.telerium.link:2052/free10/031/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjI3OjI0IEFNJmhhc2hfdmFsdWU9SEYxem00QmQyWGhScW5rZVFCdmU2dz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,INVESTIGATION DISCOVERY
+http://e10.telerium.link:2052/free10/037/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgNDo0MDoyNiBBTSZoYXNoX3ZhbHVlPUhFWmV3TkJXNldpVk9IbUFtWGFGZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTM3U
+#EXTINF:-1 ,TNT
+http://e10.telerium.link:2052/free10/098/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjMxOjUyIEFNJmhhc2hfdmFsdWU9R01IMlRFazFrK0JrdVNPblZlaHpDdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,HBO
+http://e10.telerium.link:2052/free10/087/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjMzOjQyIEFNJmhhc2hfdmFsdWU9eDBGR01RWHpYQW95ZnpGamxETVZRUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,WARNER
+http://e10.telerium.link:2052/free10/101/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjM0OjUyIEFNJmhhc2hfdmFsdWU9TXF5YXUxS016T0U2RzJsMzdlWnFqUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,UNIVERSAL
+http://e10.telerium.link:2052/free10/077/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgNDo0MToyNyBBTSZoYXNoX3ZhbHVlPVRTZENDbFVMTDBKNUFkbnJab3hBa2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTM3U
+#EXTINF:-1 ,CINECANAL
+http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjM4OjEyIEFNJmhhc2hfdmFsdWU9N0V6a3Z2aXU2Um1GMVVORDBTT2FuQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,TOONCAST
+http://e10.telerium.link:2052/free10/146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjM5OjIyIEFNJmhhc2hfdmFsdWU9RERGVHloQ2hqV0FTOXh4UXdPTHVQdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTM3U
+#EXTINF:-1 ,BITME
+http://e10.telerium.link:2052/free10/063/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgMTI6MDY6NTAgQU0maGFzaF92YWx1ZT1EdGlmbkY5NzM3WHdHcndKU0RPM1VBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTM3U
+#EXTINF:-1 ,INSPIRANIME
+https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 ,ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTM3U
+#EXTINF:-1 ,KIDS90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U
+#EXTINF:-1 ,TVFAMILIA
+https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
+
+https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
+
+#EXTM3U
+#EXTINF:-1 ,VARIADO
+https://www1494.ff-03.com/token=x1fifeAGlVrvZRsvqM3fVA/1648141299/206.62.0.0/56/7/00/0cadf64c485616f8604e0255bca4b007-360p.mp4
+
+#EXTM3U
+#EXTINF:-1 ,VARIADO 2
+https://m2.vudeo.io/2vp3xqpa4yvjdohilnirvomgtqnvbywmjy5hg3vafo2kmgml35vqfllqbu6a/v.mp4WGhScW5rZVFCdmU2dz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTM3U
 #EXTINF:-1 ,INVESTIGATION DISCOVERY
