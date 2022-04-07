@@ -43,6 +43,10 @@ https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTM3U
+#EXTINF:-1 ,ANIPLUS
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U
 #EXTINF:-1 ,KIDS90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 
