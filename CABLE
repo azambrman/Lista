@@ -8,7 +8,7 @@ http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/260589
 
 #EXTM3U
 #EXTINF:-1 ,TNT
-http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/260607
+http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,HBO 2
@@ -16,11 +16,11 @@ http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,WARNER
-http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/86
+http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,UNIVERSAL
-http://e10.telerium.link:2052/free10/077/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgNDo0MToyNyBBTSZoYXNoX3ZhbHVlPVRTZENDbFVMTDBKNUFkbnJab3hBa2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,CINECANAL
@@ -28,7 +28,7 @@ http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 #EXTM3U
 #EXTINF:-1 ,TOONCAST
-http://e10.telerium.link:2052/free10/146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjM5OjIyIEFNJmhhc2hfdmFsdWU9RERGVHloQ2hqV0FTOXh4UXdPTHVQdz09JnZhbGlkbWludXRlcz0yNDA=
+http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,BITME
