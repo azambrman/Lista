@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,HISTORY
-http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/260553
+http://38.123.205.70:8000/play/a0ap/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,INVESTIGATION DISCOVERY
-http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/260589
+http://38.123.205.70:8000/play/a0ch/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,TNT
 http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
+
+#EXTM3U
+#EXTINF:-1 ,TCM
+http://45.225.95.170:8000/play/a0lv/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,HBO 2
