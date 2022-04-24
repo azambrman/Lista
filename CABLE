@@ -16,20 +16,16 @@ http://45.225.95.170:8000/play/a0lv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1079557692_HBOSUB.png.5924f8743b93423c14687572b609988a.png",HBO 2
 http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,WARNER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WARNER
 http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,UNIVERSAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL
 http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,CINECANAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png",CINECANAL
 http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIyIDExOjM4OjEyIEFNJmhhc2hfdmFsdWU9N0V6a3Z2aXU2Um1GMVVORDBTT2FuQT09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTM3U
-#EXTINF:-1 ,TOONCAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",TOONCAST
 http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://giganettv.mx/wp-content/uploads/2021/02/26-BITME.png",BITME
