@@ -1,13 +1,10 @@
-#EXTM3U
-#EXTINF:-1 ,HISTORY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
 http://38.123.205.70:8000/play/a0ap/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
 http://38.123.205.70:8000/play/a0ch/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png",UNIVERSAL CRIME
 http://190.83.119.67:8000/play/a0sj
 
 #EXTM3U
