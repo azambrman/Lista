@@ -13,7 +13,7 @@ http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://45.225.95.170:8000/play/a0lv/index.m3u8
 
-#EXTINF:-1 tvg-logo="5924f8743b93423c14687572b609988a.png",HBO 2
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1079557692_HBOSUB.png.5924f8743b93423c14687572b609988a.png",HBO 2
 http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
 
 #EXTM3U
@@ -32,7 +32,7 @@ http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 ,TOONCAST
 http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 
-#EXTINF:-1 tvg-logo="eyJzdYKYHKVmF7lzOII2woePnREKOhiQVUo",BITME
+#EXTINF:-1 tvg-logo="https://giganettv.mx/wp-content/uploads/2021/02/26-BITME.png",BITME
 http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/53
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
