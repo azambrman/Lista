@@ -10,8 +10,7 @@ http://190.83.119.67:8000/play/a0sj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://45.225.95.170:8000/play/a0lv/index.m3u8
 
 #EXTM3U
@@ -34,7 +33,7 @@ http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 ,TOONCAST
 http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png",BITME
+#EXTINF:-1 tvg-logo="eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjMjcwMjAwLWJmODYtNGNkNS04NmNlLWVjMTFiNGJkOWIxZVwvZGR0OGV0cC0yNDQ2MDg2ZC0wOGQ0LTQ2ZTUtOTFmMC05YzVjNjkwOGZiYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0btkBSJ1AYNjuYKYHKVmF7lzOII2woePnREKOhiQVUo",BITME
 http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/53
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
