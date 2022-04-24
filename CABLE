@@ -42,6 +42,9 @@ http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 #EXTINF:-1 ,BITME
 http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/53
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
+http://190.83.119.67:8000/play/a0se
+
 #EXTM3U
 #EXTINF:-1 ,INSPIRANIME
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
