@@ -7,6 +7,10 @@ http://38.123.205.70:8000/play/a0ap/index.m3u8
 http://38.123.205.70:8000/play/a0ch/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 ,UNIVERSAL CRIME
+http://190.83.119.67:8000/play/a0sj
+
+#EXTM3U
 #EXTINF:-1 ,TNT
 http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
 
