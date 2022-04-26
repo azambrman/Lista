@@ -5,7 +5,7 @@ http://38.123.205.70:8000/play/a0ap/index.m3u8
 http://38.123.205.70:8000/play/a0ch/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
-http://190.83.119.67:8000/play/a0sj
+http://190.5.113.58:1133/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
@@ -32,7 +32,11 @@ http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
-http://190.83.119.67:8000/play/a0se
+http://38.123.205.70:8000/play/a092/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://201.111.180.253:8000/playlist/tvg-logo/a02t.png",EWTN
+http://201.111.180.253:8000/play/a02t/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 ,INSPIRANIME
@@ -64,8 +68,8 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,PELÍCULA
-https://s-delivery11.mxdcontent.net/v/804d663f5e859b55b680d7328a549594.mp4?s=JBMxg4qlB-B0IOwzy5jEow&e=1650933112&_t=1650913072
+https://www1443.ff-03.com/token=wd7DYn49Rfb6TuvKVlY8dg/1649914539/206.62.0.0/78/0/44/861501c3d6f081fa12d540e9eaee2440-720p.mp4
 
 #EXTM3U
 #EXTINF:-1 ,SERIE
-https://www652.ff-02.com/token=OtmVjLq400Y1xaycsindxQ/1650903858/206.62.0.0/101/d/35/602c94761ec27dab4b298327cc2e735d-720p.mp4
+https://s3.zplayer.live/hls/5fxc6wu6w6nufvsa6kku7duiwt3xccbynmmspxt5vttkn4dpinx2crxvqojq/index-v1-a1.m3u8
