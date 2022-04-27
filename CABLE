@@ -41,30 +41,25 @@ http://38.123.205.70:8000/play/a091/index.m3u8
 http://201.111.180.253:8000/play/a02t/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEl5tNN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",INSPIRANIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Subarashiki_no_Sekai_anime_logo.png",INSPIRANIME
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/15c25b0702160d6139a1aa50b442ab2a.webp",ANIME ZONE TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTM3U
-#EXTINF:-1 ,ANIPLUS
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png",ANIPLUS
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 
-#EXTM3U
-#EXTINF:-1 ,KIDS90
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png",KIDS90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 
-#EXTM3U
-#EXTINF:-1 ,STAR TREK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKZd7S3d/viaje_a_las_estrellas.png",STAR TREK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a51-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8ef5fcb-54da-459f-aee5-b09662432fc7&userId=&serverSideAds=true
 
-#EXTM3U
-#EXTINF:-1 ,SERIES RETRO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png",SERIES RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
-#EXTM3U
-#EXTINF:-1 ,TVFAMILIA
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TVFAMILIA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
 #EXTM3U
