@@ -5,10 +5,10 @@ http://38.123.205.70:8000/play/a0ap/index.m3u8
 http://38.123.205.70:8000/play/a0ch/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
-http://190.5.113.58:1133/play/a02j/index.m3u8
+http://190.83.119.67:8000/play/a0sj
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://190.5.113.58:1133/play/a067/index.m3u8
+http://38.123.205.70:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://45.225.95.170:8000/play/a0lv/index.m3u8
