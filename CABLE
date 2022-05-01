@@ -73,5 +73,5 @@ http://158.69.251.150/ElPajaroLoco/index.m3u8
 http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjozMDozNSBQTSZoYXNoX3ZhbHVlPWNkNWpUNlIwK28wQUx6RUp0VW9GU1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTM3U
-#EXTINF:-1 ,DUNDEE 2
-https://s87.upstreamcdn.co/hls/w47rzknot5bnx2nro2jkcqn5k5k3lb3qnxo54c5obc4fwtlf5qwiabvrn46a/index-v1-a1.m3u8
+#EXTINF:-1 ,SCOOB!
+http://public01.freetraffic.host:2052/freeproxy/2347_SCSC2020-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMzoxOTozMiBQTSZoYXNoX3ZhbHVlPTh2T09IZjA4WVhPYTJ3T0puR3hvbFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
