@@ -68,10 +68,8 @@ http://158.69.251.150/Alf/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Woody-Woodpecker-Transparent-Background.png",EL PÁJARO LOCO
 http://158.69.251.150/ElPajaroLoco/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 ,THE BATMAN
+#EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
 http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjozMDozNSBQTSZoYXNoX3ZhbHVlPWNkNWpUNlIwK28wQUx6RUp0VW9GU1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
-#EXTM3U
-#EXTINF:-1 ,SCOOB!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
 http://public01.freetraffic.host:2052/freeproxy/2347_SCSC2020-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMzoxOTozMiBQTSZoYXNoX3ZhbHVlPTh2T09IZjA4WVhPYTJ3T0puR3hvbFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
