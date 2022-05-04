@@ -40,6 +40,11 @@ http://38.123.205.70:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
 http://201.111.180.253:8000/play/a02t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png",TRU TV
+http://201.111.180.253:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hKuiXx5eNObCLKe9BOl7O7ulKyg.png",LOS SIMPSON
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Subarashiki_no_Sekai_anime_logo.png",INSPIRANIME
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
@@ -81,4 +86,4 @@ http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8
 http://public01.freetraffic.host:2052/freeproxy/2347_SCSC2020-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNzozMSBQTSZoYXNoX3ZhbHVlPXFaWXJsa21HMVR2MWY5R00wWFAwd2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18698e00-244d-4a74-9598-fb07c7144eee/dci2qi2-d0aefdf9-1fc9-488a-a0b7-c1345b6c1460.png/v1/fill/w_1024,h_576,strp/logo__shazam__movie___dc_by_4n4rkyx_dci2qi2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTg2OThlMDAtMjQ0ZC00YTc0LTk1OTgtZmIwN2M3MTQ0ZWVlXC9kY2kycWkyLWQwYWVmZGY5LTFmYzktNDg4YS1hMGI3LWMxMzQ1YjZjMTQ2MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ymfHRgVvwBC7X95bP-MGaxluWBvroicpH1veJzS4uWw",SHAZAM!
-http://e10.telerium.link:2052/free10/063/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgOToyMTowNiBQTSZoYXNoX3ZhbHVlPU5kN0V4b1dTOTUyVkdKSnpxYk9YWUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://public01.freetraffic.host:2052/freeproxy/1780_SH2019-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowOToyNyBQTSZoYXNoX3ZhbHVlPXU5U01pQmxxMUY3aFJHcjAyaldhUmc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
