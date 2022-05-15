@@ -55,6 +55,9 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
 #EXTINF:-1 tvg-logo="https://world-of-quiz.com/wp-content/uploads/2021/08/House-MD.png",DR. HOUSE
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/408.m3u8
 
+#EXTINF:-1 tvg-logo="https://pngroyale.com/wp-content/uploads/2021/11/Download-thundercats-symbol-png-logo-0.png",THUNDERCATS
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/401.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Subarashiki_no_Sekai_anime_logo.png",INSPIRANIME
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
 
