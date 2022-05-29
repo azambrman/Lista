@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
-http://38.123.205.70:8000/play/a0ap/index.m3u8
+http://190.83.119.67:8000/play/a0sc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
-http://38.123.205.70:8000/play/a0ch/index.m3u8
+http://190.83.119.67:8000/play/a0tf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
-http://190.83.119.67:8000/play/a0sj
+http://190.83.119.67:8000/play/a0sj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://38.123.205.70:8000/play/a0aq/index.m3u8
+http://190.83.119.67:8000/play/a0pq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
-http://45.225.95.170:8000/play/a0lv/index.m3u8
+http://190.83.119.67:8000/play/a0ri/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2
 http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
@@ -32,37 +32,19 @@ http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
 http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png",ESPN
-http://38.123.205.70:8000/play/a092/index.m3u8
+http://190.83.119.67:8000/play/a0se/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png",ESPN 2
-http://38.123.205.70:8000/play/a091/index.m3u8
+http://190.83.119.67:8000/play/a0sf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
-http://45.225.95.170:8000/play/a0kr/index.m3u8
+http://190.83.119.67:8000/play/a0pw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",TRU TV
-http://181.176.148.142:8000/play/a01q
+http://190.83.119.67:8000/play/a0pe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hKuiXx5eNObCLKe9BOl7O7ulKyg.png",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/02/cd/ec/02cdecd6a0f513954e95b4ef492926ee.png",LOS PICAPIEDRA
-https://clubtv.link/mayo13/may013/lista3.php?c=669&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",DRAGON BALL SUPER
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
-
-#EXTINF:-1 tvg-logo="https://world-of-quiz.com/wp-content/uploads/2021/08/House-MD.png",DR. HOUSE
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/408.m3u8
-
-#EXTINF:-1 tvg-logo="https://pngroyale.com/wp-content/uploads/2021/11/Download-thundercats-symbol-png-logo-0.png",THUNDERCATS
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/401.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00ylqRFHMuwvbbnAWS0W_-1iGH6yKPxxquW6DWjqugQnfZVUHAxLZHMh_Hwc2WQYr0bQ&usqp=CAU",LA PANTERA ROSA
-http://compitv.info:8080/padre01/padre01/49251
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Ranma_%C2%BD_logo.PNG",RANMA 1/2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Subarashiki_no_Sekai_anime_logo.png",INSPIRANIME
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8
@@ -90,12 +72,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c7
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TVFAMILIA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/322/192/png-transparent-alf-television-show-melmac-extraterrestrial-life-frank-always-sunny-television-dog-like-mammal-dog-breed.png",ALF
-http://158.69.251.150/Alf/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Woody-Woodpecker-Transparent-Background.png",EL PÁJARO LOCO
-http://158.69.251.150/ElPajaroLoco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
 http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
