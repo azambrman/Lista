@@ -23,7 +23,7 @@ http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
 http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png",CINECANAL
-http://38.123.205.70:8000/play/a0cq/index.m3u8
+http://45.71.185.142:8500/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png",TOONCAST
 http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
