@@ -61,6 +61,9 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png",KIDS90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETROPLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKZd7S3d/viaje_a_las_estrellas.png",STAR TREK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a51-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8ef5fcb-54da-459f-aee5-b09662432fc7&userId=&serverSideAds=true
 
