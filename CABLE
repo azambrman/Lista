@@ -16,8 +16,20 @@ http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/223-2235525_hbo-logo-vector-hbo-png.png",HBO
+http://45.71.185.142:8500/play/a02v
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2
 http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/51/HBO_Family.png/revision/latest?cb=20130717181930&path-prefix=es",HBO FAMILY
+http://45.71.185.142:8500/play/a012
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png",HBO PLUS
+http://45.71.185.142:8500/play/a010
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",DISNEY CHANNEL
+http://45.71.185.142:8500/play/a017
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WARNER
 http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
