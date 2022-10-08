@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
-http://190.83.119.67:8000/play/a0sc/index.m3u8
+http://200.24.132.99:8000/play/a01e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
 http://190.83.119.67:8000/play/a0tf/index.m3u8
@@ -11,10 +11,10 @@ http://190.83.119.67:8000/play/a0sj/index.m3u8
 http://190.83.119.67:8000/play/a0t0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
+http://200.24.132.99:8000/play/a01n
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
-http://190.83.119.67:8000/play/a0ri/index.m3u8
+http://200.24.132.99:8000/play/a01k
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png",HBO
 http://45.71.185.142:8500/play/a02v
