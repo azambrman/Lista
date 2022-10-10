@@ -29,7 +29,7 @@ http://45.71.185.142:8500/play/a012
 http://45.71.185.142:8500/play/a010
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",DISNEY CHANNEL
-http://45.71.185.142:8500/play/a017
+http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WARNER
 http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
@@ -56,7 +56,7 @@ http://190.83.119.67:8000/play/a0sf/index.m3u8
 http://190.83.119.67:8000/play/a0pw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",TRU TV
-http://190.83.119.67:8000/play/a0pe/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hKuiXx5eNObCLKe9BOl7O7ulKyg.png",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -98,4 +98,4 @@ http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8
 http://public01.freetraffic.host:2052/freeproxy/2347_SCSC2020-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNzozMSBQTSZoYXNoX3ZhbHVlPXFaWXJsa21HMVR2MWY5R00wWFAwd2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18698e00-244d-4a74-9598-fb07c7144eee/dci2qi2-d0aefdf9-1fc9-488a-a0b7-c1345b6c1460.png/v1/fill/w_1024,h_576,strp/logo__shazam__movie___dc_by_4n4rkyx_dci2qi2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTg2OThlMDAtMjQ0ZC00YTc0LTk1OTgtZmIwN2M3MTQ0ZWVlXC9kY2kycWkyLWQwYWVmZGY5LTFmYzktNDg4YS1hMGI3LWMxMzQ1YjZjMTQ2MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ymfHRgVvwBC7X95bP-MGaxluWBvroicpH1veJzS4uWw",SHAZAM!
-https://www25.ff-01.com/token=iGSfn4ZgUtxD16gblKG7BQ/1665363100/38.25.0.0/19/7/12/c5b4d5b414e460d3e2a444238c444127-480p.mp4
+http://rr4---sn-5pgux3nva0upvon8x-h5gl.googlevideo.com/videoplayback?expire=1651788021&ei=lfRzYqi4K9yj0_wPqe2ncA&ip=206.62.164.50&id=o-AJsIvbaZUSPKklUCK3-4mX3jXBilBwfMqdtkd6yofaQR&itag=22&source=youtube&mh=ik&mm=31,29&mn=sn-5pgux3nva0upvon8x-h5gl,sn-hp57knd6&ms=au,rdu&mv=m&mvi=4&pcm2cms=yes&pl=24&initcwndbps=430000&vprv=1&mime=video/mp4&ns=tzU_9Lb_eE6zvt0y327LzhoG&cnr=14&ratebypass=yes&dur=37.268&lmt=1650153758180630&mt=1651765771&fvip=4&fexp=24001373,24007246&c=MWEB&txp=5532434&n=4V9Y57zNRaOZrQ&sparams=expire,ei,ip,id,itag,source,vprv,mime,ns,cnr,ratebypass,dur,lmt&sig=AOq0QJ8wRgIhAIHDfhkAL-N8zLjP1BIh6LuMnq2dyzTAStbEX7Dk4ADQAiEAnBXr57USonZrLXn6NVrN7mZzGLtpIj31eMEINauqH_o=&lsparams=mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps&lsig=AG3C_xAwRAIgbpIFOAzHOOygI-Ygqc2bmHPnELPeqHvHje04Z109lz4CIDQRV3mE172uYnT9263_LSbPRjOIvrW4yMnExcBPaHBp
