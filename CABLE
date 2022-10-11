@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
-http://200.24.132.99:8000/play/a01e
+http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
-http://190.83.119.67:8000/play/a0tf/index.m3u8
+http://160.20.164.171:8001/play/a019
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
-http://190.83.119.67:8000/play/a0sj/index.m3u8
+http://160.20.164.171:8001/play/a031
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME HD
 http://190.83.119.67:8000/play/a0t0/index.m3u8
@@ -14,7 +14,7 @@ http://190.83.119.67:8000/play/a0t0/index.m3u8
 http://200.24.132.99:8000/play/a01n
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
-http://200.24.132.99:8000/play/a01k
+http://160.20.164.171:8001/play/a02z
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png",HBO
 http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8
@@ -41,19 +41,19 @@ http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
 http://200.24.132.99:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png",TOONCAST
-http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
+http://160.20.164.171:8001/play/a092
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png",BITME
 http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png",ESPN
-http://190.83.119.67:8000/play/a0se/index.m3u8
+http://160.20.164.171:8001/play/a09c
 
 #EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png",ESPN 2
-http://190.83.119.67:8000/play/a0sf/index.m3u8
+http://160.20.164.171:8001/play/a09b
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
-http://190.83.119.67:8000/play/a0pw/index.m3u8
+http://160.20.164.171:8001/play/a01n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",TRU TV
 http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8
