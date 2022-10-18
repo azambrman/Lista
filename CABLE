@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
-http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8
+https://vp01-thciptv.delivery.fuugo.com/ngrp:vp01-THC_LA_IPTV-e868351d_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
@@ -17,25 +17,25 @@ http://200.24.132.99:8000/play/a01n
 http://160.20.164.171:8001/play/a02z
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png",HBO
-http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/2030.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png",HBO 2
-http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/2031.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/51/HBO_Family.png/revision/latest?cb=20130717181930&path-prefix=es",HBO FAMILY
-http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/2032.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kKhBI5YvZsY/VonNDCfAubI/AAAAAAAAA3A/SJvyCYh0yVw/s1600/HBOPLUS.png",HBO PLUS
-http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/2034.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",DISNEY CHANNEL
-http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/1006.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WARNER
-http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
+https://vp01-wbtviptv.delivery.fuugo.com/ngrp:vp01-WBTV_HD_LA_IPTV-5257d24d_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL
-http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
+https://vp01-universaliptv.delivery.fuugo.com/ngrp:vp01-Universal_Channel_IPTV-ac6f9ada_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png",CINECANAL
 http://200.24.132.99:8000/play/a01f
@@ -44,7 +44,7 @@ http://200.24.132.99:8000/play/a01f
 http://160.20.164.171:8001/play/a092
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png",BITME
-http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/1020.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png",ESPN
 http://160.20.164.171:8001/play/a09c
@@ -56,7 +56,7 @@ http://160.20.164.171:8001/play/a09b
 http://160.20.164.171:8001/play/a01n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",TRU TV
-http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8
+http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/3014.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hKuiXx5eNObCLKe9BOl7O7ulKyg.png",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -92,10 +92,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c7
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!10
-https://p2-136.pvvstream.pro/F1AwM-kVl3hinkZMqU88uA/363133802_456239028/360/pvv4.vkuservideo.net/c509509/8/e20Ozg9Nzo2Nz01/videos/ede530a004.360.mp4?extra=8Z1Ffg1Hbwl9QokudcIaPX4OFUdFh6CmfQpogTlvC7nXsTzdZmlWXtOk3x_bOYgELQmE3rXxLWlJObKek6sQThF4yAEfWTW79HPCs-bLIo_nXntYzNjFLKowACJQVJ_yzL-xY_U7pl7CTo1qQl1PrDfuVQplay&cache=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
+http://public01.freetraffic.host:2052/freeproxy/2347_SCSC2020-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNzozMSBQTSZoYXNoX3ZhbHVlPXFaWXJsa21HMVR2MWY5R00wWFAwd2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18698e00-244d-4a74-9598-fb07c7144eee/dci2qi2-d0aefdf9-1fc9-488a-a0b7-c1345b6c1460.png/v1/fill/w_1024,h_576,strp/logo__shazam__movie___dc_by_4n4rkyx_dci2qi2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTg2OThlMDAtMjQ0ZC00YTc0LTk1OTgtZmIwN2M3MTQ0ZWVlXC9kY2kycWkyLWQwYWVmZGY5LTFmYzktNDg4YS1hMGI3LWMxMzQ1YjZjMTQ2MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ymfHRgVvwBC7X95bP-MGaxluWBvroicpH1veJzS4uWw",SHAZAM!
-https://videos2-h.sendvid.com/hls/e9/02/zzqw22w6.mp4/index-v1-a1.m3u8?validfrom=1666022822&validto=1666030022&rate=160k&ip=38.25.228.149&hdl=-1&hash=lLhfKMOWsWvFPU7zKWZxGi%2BBazs%3D
+http://rr4---sn-5pgux3nva0upvon8x-h5gl.googlevideo.com/videoplayback?expire=1651788021&ei=lfRzYqi4K9yj0_wPqe2ncA&ip=206.62.164.50&id=o-AJsIvbaZUSPKklUCK3-4mX3jXBilBwfMqdtkd6yofaQR&itag=22&source=youtube&mh=ik&mm=31,29&mn=sn-5pgux3nva0upvon8x-h5gl,sn-hp57knd6&ms=au,rdu&mv=m&mvi=4&pcm2cms=yes&pl=24&initcwndbps=430000&vprv=1&mime=video/mp4&ns=tzU_9Lb_eE6zvt0y327LzhoG&cnr=14&ratebypass=yes&dur=37.268&lmt=1650153758180630&mt=1651765771&fvip=4&fexp=24001373,24007246&c=MWEB&txp=5532434&n=4V9Y57zNRaOZrQ&sparams=expire,ei,ip,id,itag,source,vprv,mime,ns,cnr,ratebypass,dur,lmt&sig=AOq0QJ8wRgIhAIHDfhkAL-N8zLjP1BIh6LuMnq2dyzTAStbEX7Dk4ADQAiEAnBXr57USonZrLXn6NVrN7mZzGLtpIj31eMEINauqH_o=&lsparams=mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps&lsig=AG3C_xAwRAIgbpIFOAzHOOygI-Ygqc2bmHPnELPeqHvHje04Z109lz4CIDQRV3mE172uYnT9263_LSbPRjOIvrW4yMnExcBPaHBp
