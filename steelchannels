@@ -1,165 +1,269 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y2xxrgfv9dxygz7x"
-#
-#
-#EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
-http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8
-#EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony
-http://live.steelchannels.com/streaming_free/4e580757/2041/master.m3u8
-#EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8
-#EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
-http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8
-#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
-http://live.steelchannels.com/streaming_free/4e580757/2023/master.m3u8
-#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://live.steelchannels.com/streaming_free/4e580757/2000/master.m3u8
-#EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
-http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8
-#EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
-http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8
-#EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
-http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8
-#EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MásChic
-http://live.steelchannels.com/streaming_free/4e580757/3027/master.m3u8
-#EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8
-#EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
-http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8
-#EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8
-#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
-http://live.steelchannels.com/streaming_free/4e580757/3006/master.m3u8
-#EXTINF:-1 tvg-ID="StarLife.mx" tvg-name="StarLife.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
-http://live.steelchannels.com/streaming_free/4e580757/3035/master.m3u8
-#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas
-http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8
-#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
-http://live.steelchannels.com/streaming_free/4e580757/3012/master.m3u8
-#EXTINF:-1 tvg-ID="pasiones.mx" tvg-name="pasiones.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
-http://live.steelchannels.com/streaming_free/4e580757/3009/master.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
-http://live.steelchannels.com/streaming_free/4e580757/1001/master.m3u8
-#EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
-http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8
-#EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel
-http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8
-#EXTINF:-1 tvg-ID="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
-http://live.steelchannels.com/streaming_free/4e580757/1009/master.m3u8
-#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network
-http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8
-#EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
-http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8
-#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
-http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8
-#EXTINF:-1 tvg-ID="Boomerang.mx" tvg-name="Boomerang.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantil",Boomerang
-http://live.steelchannels.com/streaming_free/4e580757/1002/master.m3u8
-#EXTINF:-1 tvg-ID="Bitme.mx" tvg-name="Bitme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil",Bitme
-http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8
-#EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
-http://51.222.85.85:81/hls/loco/index/index.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
-http://live.steelchannels.com/streaming_free/4e580757/3022/master.m3u8
-#EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
-http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8
-#EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic
-http://live.steelchannels.com/streaming_free/4e580757/3028/master.m3u8
-#EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
-http://live.steelchannels.com/streaming_free/4e580757/3029/master.m3u8
-#EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet
-http://live.steelchannels.com/streaming_free/4e580757/3025/master.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
-http://live.steelchannels.com/streaming_free/4e580757/3023/master.m3u8
-#EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
-http://live.steelchannels.com/streaming_free/4e580757/3034/master.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
-http://live.steelchannels.com/streaming_free/4e580757/3016/master.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health
-http://live.steelchannels.com/streaming_free/4e580757/3019/master.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science
-http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8
-#EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8
-#EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
-http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8
-#EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-http://live.steelchannels.com/streaming_free/4e580757/2036/master.m3u8
-#EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8
-#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
-http://live.steelchannels.com/streaming_free/4e580757/2033/master.m3u8
-#EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-http://live.steelchannels.com/streaming_free/4e580757/2035/master.m3u8
-#EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://live.steelchannels.com/streaming_free/4e580757/2037/master.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-http://live.steelchannels.com/streaming_free/4e580757/2005/master.m3u8
-#EXTINF:-1 tvg-ID="GoldenPremier.mx" tvg-name="GoldenPremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
-http://live.steelchannels.com/streaming_free/4e580757/2029/master.m3u8
-#EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
-http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8
-#EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
-http://live.steelchannels.com/streaming_free/4e580757/2028/master.m3u8
-#EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
-http://live.steelchannels.com/streaming_free/4e580757/2024/master.m3u8
-#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
-http://live.steelchannels.com/streaming_free/4e580757/2008/master.m3u8
-#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
-http://live.steelchannels.com/streaming_free/4e580757/2001/master.m3u8
-#EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space
-http://live.steelchannels.com/streaming_free/4e580757/2042/master.m3u8
-#EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
-http://live.steelchannels.com/streaming_free/4e580757/2006/master.m3u8
-#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
-http://live.steelchannels.com/streaming_free/4e580757/2026/master.m3u8
-#EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
-http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8
-#EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
-http://live.steelchannels.com/streaming_free/4e580757/2004/master.m3u8
-#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden Edge
-http://live.steelchannels.com/streaming_free/4e580757/2027/master.m3u8
-#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
-http://live.steelchannels.com/streaming_free/4e580757/2055/master.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
-http://live.steelchannels.com/streaming_free/4e580757/6059/master.m3u8
-#EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2
-http://live.steelchannels.com/streaming_free/4e580757/6061/master.m3u8
-#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
-http://live.steelchannels.com/streaming_free/4e580757/6062/master.m3u8
-#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports
-http://live.steelchannels.com/streaming_free/4e580757/6030/master.m3u8
-#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2
-http://live.steelchannels.com/streaming_free/4e580757/6031/master.m3u8
-#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus
-http://live.steelchannels.com/streaming_free/4e580757/6029/master.m3u8
-#EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
-http://live.steelchannels.com/streaming_free/4e580757/6036/master.m3u8
-#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
-http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8
-#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
-http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-http://live.steelchannels.com/streaming_free/4e580757/4007/master.m3u8
-#EXTINF:-1 tvg-ID="MTVHits(English).co" tvg-name="MTVHits(English).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica",MTV Hits
-http://live.steelchannels.com/streaming_free/4e580757/4010/master.m3u8
-#EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
-http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1000" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/babyfirst.png" group-title="INFANTILES" tvg-id="",BABY FIRST
+http://live.steelchannels.tk/streaming_free/4bd00771/1000/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1001" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/babytv.png" group-title="INFANTILES" tvg-id="",BABY TV
+http://live.steelchannels.tk/streaming_free/4bd00771/1001/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1002" tvh-tags="INFANTILES" tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo-498x430.png" group-title="INFANTILES" tvg-id="",CARTOONITO
+http://live.steelchannels.tk/streaming_free/4bd00771/1002/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1003" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/cartoonnetwork.png" group-title="INFANTILES" tvg-id="",CARTOON NETWORK
+http://live.steelchannels.tk/streaming_free/4bd00771/1003/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1005" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/discoverykids.png" group-title="INFANTILES" tvg-id="",DISCOVERY KIDS
+http://live.steelchannels.tk/streaming_free/4bd00771/1005/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1006" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/disneychannel.png" group-title="INFANTILES" tvg-id="",DISNEY CHANNEL
+http://live.steelchannels.tk/streaming_free/4bd00771/1006/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1007" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/disneyjr.png" group-title="INFANTILES" tvg-id="",DISNEY JR
+http://live.steelchannels.tk/streaming_free/4bd00771/1007/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1008" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/disneyxd.png" group-title="INFANTILES" tvg-id="",DISNEY XD
+http://live.steelchannels.tk/streaming_free/4bd00771/1008/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1009" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/natgeokids.png" group-title="INFANTILES" tvg-id="",NATGEO KIDS
+http://live.steelchannels.tk/streaming_free/4bd00771/1009/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1015" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/tooncast.png" group-title="INFANTILES" tvg-id="",TOONCAST
+http://live.steelchannels.tk/streaming_free/4bd00771/1015/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1020" tvh-tags="INFANTILES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="INFANTILES" tvg-id="",BITME
+http://live.steelchannels.tk/streaming_free/4bd00771/1020/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9001" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL CINE REAL
+http://live.steelchannels.tk/streaming_free/4bd00771/1022/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2000" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/a&e.png" group-title="CINE" tvg-id="",A&E
+http://live.steelchannels.tk/streaming_free/4bd00771/2000/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2001" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/amc.png" group-title="CINE" tvg-id="",AMC
+http://live.steelchannels.tk/streaming_free/4bd00771/2001/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2002" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/axn.png" group-title="CINE" tvg-id="",AXN
+http://live.steelchannels.tk/streaming_free/4bd00771/2002/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2004" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/cinelatino.png" group-title="CINE" tvg-id="",CINE LATINO
+http://live.steelchannels.tk/streaming_free/4bd00771/2004/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2005" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/cinecanal.png" group-title="CINE" tvg-id="",CINECANAL
+http://live.steelchannels.tk/streaming_free/4bd00771/2005/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2006" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/cinemax.png" group-title="CINE" tvg-id="",CINEMAX
+http://live.steelchannels.tk/streaming_free/4bd00771/2006/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2008" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/depelicula.png" group-title="CINE" tvg-id="",DE PELICULA
+http://live.steelchannels.tk/streaming_free/4bd00771/2008/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2012" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/fox.png" group-title="CINE" tvg-id="",STAR CHANEL
+http://live.steelchannels.tk/streaming_free/4bd00771/2012/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2023" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/fx.png" group-title="CINE" tvg-id="",FX
+http://live.steelchannels.tk/streaming_free/4bd00771/2023/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2024" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/fxm.png" group-title="CINE" tvg-id="",FXM
+http://live.steelchannels.tk/streaming_free/4bd00771/2024/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2026" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/golden.png" group-title="CINE" tvg-id="",GOLDEN
+http://live.steelchannels.tk/streaming_free/4bd00771/2026/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2027" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/goldenedge.png" group-title="CINE" tvg-id="",GOLDEN EDGE
+http://live.steelchannels.tk/streaming_free/4bd00771/2027/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2028" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/goldenplus.png" group-title="CINE" tvg-id="",GOLDEN PLUS
+http://live.steelchannels.tk/streaming_free/4bd00771/2028/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2029" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/goldenpremier.png" group-title="CINE" tvg-id="",GOLDEN PREMIER
+http://live.steelchannels.tk/streaming_free/4bd00771/2029/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2030" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hbo.png" group-title="CINE" tvg-id="",HBO
+http://live.steelchannels.tk/streaming_free/4bd00771/2030/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2031" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hbo2.png" group-title="CINE" tvg-id="",HBO 2
+http://live.steelchannels.tk/streaming_free/4bd00771/2031/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2032" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hbofamily.png" group-title="CINE" tvg-id="",HBO FAMILY
+http://live.steelchannels.tk/streaming_free/4bd00771/2032/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2034" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hboplus.png" group-title="CINE" tvg-id="",HBO PLUS
+http://live.steelchannels.tk/streaming_free/4bd00771/2034/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2035" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hbopop.png" group-title="CINE" tvg-id="",HBO POP
+http://live.steelchannels.tk/streaming_free/4bd00771/2035/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2036" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hbosignature.png" group-title="CINE" tvg-id="",HBO SIGNATURE
+http://live.steelchannels.tk/streaming_free/4bd00771/2036/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2037" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/hboxtreme.png" group-title="CINE" tvg-id="",HBO XTREME
+http://live.steelchannels.tk/streaming_free/4bd00771/2037/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2041" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/sony.png" group-title="CINE" tvg-id="",SONY
+http://live.steelchannels.tk/streaming_free/4bd00771/2041/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2042" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/space.png" group-title="CINE" tvg-id="",SPACE
+http://live.steelchannels.tk/streaming_free/4bd00771/2042/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2044" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/studiouniversal.png" group-title="CINE" tvg-id="",STUDIO UNIVERSAL
+http://live.steelchannels.tk/streaming_free/4bd00771/2044/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2046" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/syfy.png" group-title="CINE" tvg-id="",SYFY
+http://live.steelchannels.tk/streaming_free/4bd00771/2046/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2047" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/tbs.png" group-title="CINE" tvg-id="",TBS
+http://live.steelchannels.tk/streaming_free/4bd00771/2047/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2048" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/tcm.png" group-title="CINE" tvg-id="",TCM
+http://live.steelchannels.tk/streaming_free/4bd00771/2048/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2049" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/tnt.png" group-title="CINE" tvg-id="",TNT
+http://live.steelchannels.tk/streaming_free/4bd00771/2049/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2050" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/tntseries.png" group-title="CINE" tvg-id="",TNT SERIES
+http://live.steelchannels.tk/streaming_free/4bd00771/2050/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2051" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/universalchannel.png" group-title="CINE" tvg-id="",UNIVERSAL CHANNEL
+http://live.steelchannels.tk/streaming_free/4bd00771/2051/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2052" tvh-tags="CINE" tvg-logo="https://steelchannels.com/assets/img/channels/warnerchannel.png" group-title="CINE" tvg-id="",WARNER CHANNEL
+http://live.steelchannels.tk/streaming_free/4bd00771/2052/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="2055" tvh-tags="CINE" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/02/513.png" group-title="CINE" tvg-id="",DHE
+http://live.steelchannels.tk/streaming_free/4bd00771/2055/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9002" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL CINE
+http://live.steelchannels.tk/streaming_free/4bd00771/2095/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9003" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL COMEDIA
+http://live.steelchannels.tk/streaming_free/4bd00771/2096/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9004" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL FANTASIA
+http://live.steelchannels.tk/streaming_free/4bd00771/2097/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9005" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL TU CINE
+http://live.steelchannels.tk/streaming_free/4bd00771/2098/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3001" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/canal-de-las-estrellas.png" group-title="VARIEDADES" tvg-id="",CANAL DE LAS ESTRELLAS
+http://live.steelchannels.tk/streaming_free/4bd00771/3001/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3002" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/comedycentral.png" group-title="VARIEDADES" tvg-id="",COMEDY CENTRAL
+http://live.steelchannels.tk/streaming_free/4bd00771/3002/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3006" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-71.png" group-title="VARIEDADES" tvg-id="",GLITZ
+http://live.steelchannels.tk/streaming_free/4bd00771/3006/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3009" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-29.png" group-title="VARIEDADES" tvg-id="",PASIONES
+http://live.steelchannels.tk/streaming_free/4bd00771/3009/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3010" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/telemundo.png" group-title="VARIEDADES" tvg-id="",TELEMUNDO
+http://live.steelchannels.tk/streaming_free/4bd00771/3010/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3011" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/telemundo.png" group-title="VARIEDADES" tvg-id="",TELEMUNDO INTERNACIONAL
+http://live.steelchannels.tk/streaming_free/4bd00771/3011/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3012" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/tlnovelas.png" group-title="VARIEDADES" tvg-id="",TELENOVELAS
+http://live.steelchannels.tk/streaming_free/4bd00771/3012/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3014" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/tru-tv.png" group-title="VARIEDADES" tvg-id="",TRU TV
+http://live.steelchannels.tk/streaming_free/4bd00771/3014/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3015" tvh-tags="VARIEDADES" tvg-logo="http://www.planetfools.com/unimas.png" group-title="VARIEDADES" tvg-id="",UNIMAS
+http://live.steelchannels.tk/streaming_free/4bd00771/3015/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3016" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/discoverychannel.png" group-title="VARIEDADES" tvg-id="",DISCOVERY CHANNEL
+http://live.steelchannels.tk/streaming_free/4bd00771/3016/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3019" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-42.png" group-title="VARIEDADES" tvg-id="",DISCOVERY H&H
+http://live.steelchannels.tk/streaming_free/4bd00771/3019/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3020" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-140.png" group-title="VARIEDADES" tvg-id="",DISCOVERY ID
+http://live.steelchannels.tk/streaming_free/4bd00771/3020/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3021" tvh-tags="VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="VARIEDADES" tvg-id="",DISCOVERY SCIENCE
+http://live.steelchannels.tk/streaming_free/4bd00771/3021/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3022" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-122.png" group-title="VARIEDADES" tvg-id="",DISCOVERY THEATER
+http://live.steelchannels.tk/streaming_free/4bd00771/3022/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3023" tvh-tags="VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="VARIEDADES" tvg-id="",DISCOVERY TURBO
+http://live.steelchannels.tk/streaming_free/4bd00771/3023/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3025" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/animalplanet.png" group-title="VARIEDADES" tvg-id="",ANIMAL PLANET
+http://live.steelchannels.tk/streaming_free/4bd00771/3025/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3027" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/MASCHIC_LOGO-176.png" group-title="VARIEDADES" tvg-id="",MAS CHIC
+http://live.steelchannels.tk/streaming_free/4bd00771/3027/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3028" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/natgeo.png" group-title="VARIEDADES" tvg-id="",NATGEO
+http://live.steelchannels.tk/streaming_free/4bd00771/3028/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3029" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/natgeowild.png" group-title="VARIEDADES" tvg-id="",NATGEO WILD
+http://live.steelchannels.tk/streaming_free/4bd00771/3029/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3032" tvh-tags="VARIEDADES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-45.png" group-title="VARIEDADES" tvg-id="",EL GOURMET
+http://live.steelchannels.tk/streaming_free/4bd00771/3032/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3033" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/history.png" group-title="VARIEDADES" tvg-id="",HISTORY
+http://live.steelchannels.tk/streaming_free/4bd00771/3033/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3034" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/history2.png" group-title="VARIEDADES" tvg-id="",HISTORY 2
+http://live.steelchannels.tk/streaming_free/4bd00771/3034/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3035" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/lifetime.png" group-title="VARIEDADES" tvg-id="",LIFETIME
+http://live.steelchannels.tk/streaming_free/4bd00771/3035/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="4005" tvh-tags="MUSICA" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-32.png" group-title="MUSICA" tvg-id="",HTV
+http://live.steelchannels.tk/streaming_free/4bd00771/4005/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="4007" tvh-tags="MUSICA" tvg-logo="https://steelchannels.com/assets/img/channels/mtv.png" group-title="MUSICA" tvg-id="",MTV
+http://live.steelchannels.tk/streaming_free/4bd00771/4007/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="4010" tvh-tags="MUSICA" tvg-logo="https://steelchannels.com/assets/img/channels/mtvhits.png" group-title="MUSICA" tvg-id="",MTV HITS
+http://live.steelchannels.tk/streaming_free/4bd00771/4010/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5011" tvh-tags="PAISES" tvg-logo="https://pbs.twimg.com/profile_images/1542138819767672832/1jO2sZDr_400x400.jpg" group-title="PAISES" tvg-id="",AR: TELEFE
+http://live.steelchannels.tk/streaming_free/4bd00771/5011/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5185" tvh-tags="PAISES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Canal-1-Colombia-en-vivo-Online-directo-100x70.png" group-title="PAISES" tvg-id="",CO: CANAL UNO
+http://live.steelchannels.tk/streaming_free/4bd00771/5185/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5186" tvh-tags="PAISES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-100x70.png" group-title="PAISES" tvg-id="",CO: CARACOL
+http://live.steelchannels.tk/streaming_free/4bd00771/5186/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5192" tvh-tags="PAISES" tvg-logo="http://www.monitoreodemedios.co/wp-content/uploads/2016/03/RCN-TELEVISION-C.png" group-title="PAISES" tvg-id="",CO: RCN
+http://live.steelchannels.tk/streaming_free/4bd00771/5192/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5247" tvh-tags="PAISES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-70.png" group-title="PAISES" tvg-id="",ES: A3 SERIES
+http://live.steelchannels.tk/streaming_free/4bd00771/5247/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5270" tvh-tags="PAISES" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="PAISES" tvg-id="",ES: LA 1
+http://live.steelchannels.tk/streaming_free/4bd00771/5270/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5271" tvh-tags="PAISES" tvg-logo="https://graph.facebook.com/la2detve/picture?width=100&height=60" group-title="PAISES" tvg-id="",ES: LA 2
+http://live.steelchannels.tk/streaming_free/4bd00771/5271/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5286" tvh-tags="PAISES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv-100x70.png" group-title="PAISES" tvg-id="",ES: PEQUE RADIO
+http://live.steelchannels.tk/streaming_free/4bd00771/5286/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5320" tvh-tags="PAISES" tvg-logo="http://www.planetfools.com/azteca-7.png" group-title="PAISES" tvg-id="",MX: AZTECA 7
+http://live.steelchannels.tk/streaming_free/4bd00771/5320/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5327" tvh-tags="PAISES" tvg-logo="http://www.planetfools.com/distrito-comedia.png" group-title="PAISES" tvg-id="",MX: DISTRITO COMEDIA
+http://live.steelchannels.tk/streaming_free/4bd00771/5327/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5346" tvh-tags="PAISES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/02/AmÃ©rica-TV-PerÃº-en-vivo-Online-2-100x70.png" group-title="PAISES" tvg-id="",PE: AMERICA TV
+http://live.steelchannels.tk/streaming_free/4bd00771/5346/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5355" tvh-tags="PAISES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2-100x70.png" group-title="PAISES" tvg-id="",PE: LATINA
+http://live.steelchannels.tk/streaming_free/4bd00771/5355/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5463" tvh-tags="PAISES" tvg-logo="http://www.planetfools.com/univision.png" group-title="PAISES" tvg-id="",US: UNIVISION
+http://live.steelchannels.tk/streaming_free/4bd00771/5463/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5492" tvh-tags="PAISES" tvg-logo="https://adictosalatele.com/logos/vtv.png" group-title="PAISES" tvg-id="",UY: VTV
+http://live.steelchannels.tk/streaming_free/4bd00771/5492/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5494" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/globovision.png" group-title="PAISES" tvg-id="",VE: GLOBOVISION
+http://live.steelchannels.tk/streaming_free/4bd00771/5494/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5496" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="PAISES" tvg-id="",VE: TELESUR
+http://live.steelchannels.tk/streaming_free/4bd00771/5496/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5497" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/televen.png" group-title="PAISES" tvg-id="",VE: TELEVEN
+http://live.steelchannels.tk/streaming_free/4bd00771/5497/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5499" tvh-tags="PAISES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-43.png" group-title="PAISES" tvg-id="",VE: VENEVISION PLUS
+http://live.steelchannels.tk/streaming_free/4bd00771/5499/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5500" tvh-tags="PAISES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-10.png" group-title="PAISES" tvg-id="",VE: VENEVISION
+http://live.steelchannels.tk/streaming_free/4bd00771/5500/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5518" tvh-tags="PAISES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="PAISES" tvg-id="",EC: ECUAVISA
+http://live.steelchannels.tk/streaming_free/4bd00771/5518/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5523" tvh-tags="PAISES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="PAISES" tvg-id="",EC: TC TELEVISION
+http://live.steelchannels.tk/streaming_free/4bd00771/5523/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6023" tvh-tags="DEPORTES" tvg-logo="http://www.planetfools.com/claro-sports.png" group-title="DEPORTES" tvg-id="",CLARO SPORTS
+http://live.steelchannels.tk/streaming_free/4bd00771/6023/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6028" tvh-tags="DEPORTES" tvg-logo="http://www.planetfools.com/directv-sports.png" group-title="DEPORTES" tvg-id="",DIRECTV SPORTS
+http://live.steelchannels.tk/streaming_free/4bd00771/6028/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6029" tvh-tags="DEPORTES" tvg-logo="https://www.televisiongratishd.com/img/directvsportsplus.png" group-title="DEPORTES" tvg-id="",DIRECTV SPORTS +
+http://live.steelchannels.tk/streaming_free/4bd00771/6029/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6031" tvh-tags="DEPORTES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-143.png" group-title="DEPORTES" tvg-id="",DIRECTV SPORTS 2
+http://live.steelchannels.tk/streaming_free/4bd00771/6031/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6036" tvh-tags="DEPORTES" tvg-logo="http://www.planetfools.com/espn.png" group-title="DEPORTES" tvg-id="",ESPN
+http://live.steelchannels.tk/streaming_free/4bd00771/6036/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6038" tvh-tags="DEPORTES" tvg-logo="http://www.planetfools.com/espn-2.png" group-title="DEPORTES" tvg-id="",ESPN 2
+http://live.steelchannels.tk/streaming_free/4bd00771/6038/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6039" tvh-tags="DEPORTES" tvg-logo="http://www.planetfools.com/espn-3.png" group-title="DEPORTES" tvg-id="",ESPN 3
+http://live.steelchannels.tk/streaming_free/4bd00771/6039/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6040" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="DEPORTES" tvg-id="",ESPN EXTRA
+http://live.steelchannels.tk/streaming_free/4bd00771/6040/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6049" tvh-tags="DEPORTES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2022/05/espn-extra-web2.png" group-title="DEPORTES" tvg-id="",ESPN PLUS
+http://live.steelchannels.tk/streaming_free/4bd00771/6049/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6059" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/foxsports.png" group-title="DEPORTES" tvg-id="",FOX SPORTS
+http://live.steelchannels.tk/streaming_free/4bd00771/6059/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6061" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/foxsports2.png" group-title="DEPORTES" tvg-id="",FOX SPORTS 2
+http://live.steelchannels.tk/streaming_free/4bd00771/6061/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6062" tvh-tags="DEPORTES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-127.png" group-title="DEPORTES" tvg-id="",FOX SPORTS 3
+http://live.steelchannels.tk/streaming_free/4bd00771/6062/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6074" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="DEPORTES" tvg-id="",MOVISTAR DEPORTES
+http://live.steelchannels.tk/streaming_free/4bd00771/6074/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6090" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="DEPORTES" tvg-id="",OLYMPIC CHANNEL
+http://live.steelchannels.tk/streaming_free/4bd00771/6090/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="6145" tvh-tags="DEPORTES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="DEPORTES" tvg-id="",TNT SPORTS
+http://live.steelchannels.tk/streaming_free/4bd00771/6145/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8003" tvh-tags="ADULTO" tvg-logo="https://steelchannels.com/assets/img/channels/hustler.png" group-title="ADULTO" tvg-id="",HUSTLER
+http://live.steelchannels.tk/streaming_free/4bd00771/8003/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8004" tvh-tags="ADULTO" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="ADULTO" tvg-id="",JASMIN TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8004/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8031" tvh-tags="ADULTO" tvg-logo="https://adictosalatele.com/logos/playboy.png" group-title="ADULTO" tvg-id="",PLAYBOY
+http://live.steelchannels.tk/streaming_free/4bd00771/8031/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8032" tvh-tags="ADULTO" tvg-logo="https://adictosalatele.com/logos/venus.png" group-title="ADULTO" tvg-id="",VENUS
+http://live.steelchannels.tk/streaming_free/4bd00771/8032/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8035" tvh-tags="ADULTO" tvg-logo="https://steelchannels.com/assets/img/channels/brazzerstv.png" group-title="ADULTO" tvg-id="",BRAZZERS TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8035/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="8039" tvh-tags="ADULTO" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="ADULTO" tvg-id="",LATINAS
+http://live.steelchannels.tk/streaming_free/4bd00771/8039/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9006" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",CHAVO TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8040/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5528" tvh-tags="PAISES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/03/a3cine.png" group-title="PAISES" tvg-id="",ES: A3 CINE
+http://live.steelchannels.tk/streaming_free/4bd00771/8042/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="1023" tvh-tags="INFANTILES" tvg-logo="https://graph.facebook.com/canalipe/picture?width=100&height=60" group-title="INFANTILES" tvg-id="",CHICOS IPE
+http://live.steelchannels.tk/streaming_free/4bd00771/8044/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3059" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/tves.png" group-title="PAISES" tvg-id="",VE: TVES
+http://live.steelchannels.tk/streaming_free/4bd00771/8045/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3061" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/tlt.png" group-title="PAISES" tvg-id="",VE: TLT
+http://live.steelchannels.tk/streaming_free/4bd00771/8047/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="3065" tvh-tags="VARIEDADES" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="VARIEDADES" tvg-id="",RT TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8049/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5531" tvh-tags="PAISES" tvg-logo="https://televisionlibre.net/img/logo_canal/UCL.png" group-title="PAISES" tvg-id="",UY: UCL
+http://live.steelchannels.tk/streaming_free/4bd00771/8052/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5532" tvh-tags="PAISES" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/02/ivc-logo.png" group-title="PAISES" tvg-id="",VE: IVC
+http://live.steelchannels.tk/streaming_free/4bd00771/8053/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5533" tvh-tags="PAISES" tvg-logo="https://rndserv.xyz/img/vtv.png" group-title="PAISES" tvg-id="",VE: VTV
+http://live.steelchannels.tk/streaming_free/4bd00771/8054/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9007" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",MONSTRUOS TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8057/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9008" tvh-tags="CANALES 24/7" tvg-logo="https://rndserv.xyz/images/bobesponja.png" group-title="CANALES 24/7" tvg-id="",BOB ESPONJA 24/7
+http://live.steelchannels.tk/streaming_free/4bd00771/8062/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9009" tvh-tags="CANALES 24/7" tvg-logo="https://rndserv.xyz/images/simpsons.png" group-title="CANALES 24/7" tvg-id="",LOS SIMPSONS
+http://live.steelchannels.tk/streaming_free/4bd00771/8063/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9010" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL TOP CINE
+http://live.steelchannels.tk/streaming_free/4bd00771/8071/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9011" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL CINE SUREÃO
+http://live.steelchannels.tk/streaming_free/4bd00771/8072/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="9012" tvh-tags="CANALES 24/7" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png" group-title="CANALES 24/7" tvg-id="",STEEL JUNTOS TV
+http://live.steelchannels.tk/streaming_free/4bd00771/8073/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5537" tvh-tags="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="PAISES" tvg-id="",ES: EURONEWS
+http://live.steelchannels.tk/streaming_free/4bd00771/8074/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5538" tvh-tags="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="PAISES" tvg-id="",ES: FRANCE 24
+http://live.steelchannels.tk/streaming_free/4bd00771/8075/master.m3u8?q=desc
+#EXTINF:-1 tvh-epg="disable" tvg-chno="5539" tvh-tags="PAISES" tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2019/02/logo_v2-2.png" group-title="PAISES" tvg-id="",VE: CANAL I
+http://live.steelchannels.tk/streaming_free/4bd00771/8076/master.m3u8?q=desc
