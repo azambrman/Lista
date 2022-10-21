@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
 https://vp01-thciptv.delivery.fuugo.com/ngrp:vp01-THC_LA_IPTV-e868351d_all/playlist.m3u8
 
@@ -91,8 +93,8 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 #EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
 http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!???
-https://2371755307.tapecontent.net/radosgw/o2RRrMjBZlTJgmK/wf8WMmcBlbwiNTnU2oy_ZrqbC04lmFbieHrASTq2wIxiWN535Z9xnHRdAdNjioJnj__ZsVM3eDKXDve7dDehm1MwIpKcyrmsVD9LAHfb_AKNFT7w0_AvUSK4VBpW8V6tkWme8_UQxfEtAykPLM18uTRTQj_auG80l8V87mFz8qy1aiaoiN9j8Km-K4n-z08jlKCGJAG8XqXRhEVEPbiOZbVhLOmCa8gvhH827Pcz10LSEgnnh-0_L_FFEZNUisk2s7GS6qV9a9IAsQdl2T2fBXwt7s1odsJnVNUzaQ/%5B333339%5D%5BL%5D%5BHD%5D.mp4.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
+https://2371755307.tapecontent.net/radosgw/o2RRrMjBZlTJgmK/yjYTTHBA7R7eGgc7sh4DDPPgrsIE_RwTVS4CfsFpJzqdXqBMK-nnMLfrgh2CfeiXy6AGI9-_OpcDC2EX7HTc69fx5i3RkfJxp1tGZCOtKwxVrETAf2bqmt5hL11M9pRG5WmUNYP28bCmNjM13dos5Ev7l-wVhW98B40fxF3N9So-9Pzv8A89kGN3cQJUWOt78dtiy0VAqavyomlPxjqqsiM_bLSlvlQoJDE3srXe2zb2Hf3Fb2XzeBLUx-eCdVELRls9-D-3nbJbZnn4Em08VxgCwRmz53ybWgxXkA/%5B333339%5D%5BL%5D%5BHD%5D.mp4.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/11/Inuyasha-PNG-HD-Image.png",INU 011
 https://p1-120.pvvstream.pro/uzKfhFriwZe-GrLbo037Gw/363133802_456239029/360/pvv4.vkuservideo.net/c509608/2/e78Pzc-OD44MTs1/videos/8371dca670.360.mp4?extra=RdmCNOyS3pd88C-fRCIoAbjPWsiEHnoim080uysGsgvQ0h67VJoVwGPpP5kYME_DCjbgqSwvpsD-YWz18ly8X3ycPvah3KfTlx7zI25mjxKiuCP83FIrbrOO_Ng5InN3WfC9qMuFUKsB_vvGKfWB6Kymwwplay
