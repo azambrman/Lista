@@ -9,6 +9,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
 http://160.20.164.171:8001/play/a031
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png",UNIVERSAL REALITY
+http://45.236.28.72:8000/play/a0ek/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://200.24.132.99:8000/play/a01n
 
@@ -31,7 +34,7 @@ http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/2034.m3u8
 http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/1006.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WARNER
-https://vp01-wbtviptv.delivery.fuugo.com/ngrp:vp01-WBTV_HD_LA_IPTV-5257d24d_all/playlist.m3u8
+http://iptvhd.club:25461/live/iptvvall/gPNy1Ca26N/530.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL
 https://vp01-universaliptv.delivery.fuugo.com/ngrp:vp01-Universal_Channel_IPTV-ac6f9ada_all/playlist.m3u8
@@ -56,6 +59,9 @@ http://160.20.164.171:8001/play/a01n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",TRU TV
 http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/3014.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg",DISCOVERY H&H
+http://160.20.164.171:8001/play/a027
 
 #EXTINF:-1 tvg-logo="https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-45.png",EL GOURMET
 http://160.20.164.171:8001/play/a02u
