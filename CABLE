@@ -37,7 +37,7 @@ http://live.steelchannels.com:80/live/4bd00771/Mazinger-Z-92/1006.m3u8
 http://iptvhd.club:25461/live/iptvvall/gPNy1Ca26N/530.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL
-https://vp01-universaliptv.delivery.fuugo.com/ngrp:vp01-Universal_Channel_IPTV-ac6f9ada_all/playlist.m3u8
+http://premium.video-flixtv.com:8080/hGvDFumk9xgU/DRLYpmCsuE3z/5681
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png",CINECANAL
 http://200.24.132.99:8000/play/a01f
