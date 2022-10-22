@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",HISTORY
 https://vp01-thciptv.delivery.fuugo.com/ngrp:vp01-THC_LA_IPTV-e868351d_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png",LA HISTORY
+http://45.236.28.72:8000/play/a0dq/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png",INVESTIGATION DISCOVERY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 
@@ -100,7 +103,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c7
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
-http://45.236.28.72:8000/play/a0dq/index.m3u8
+http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
 https://2371755307.tapecontent.net/radosgw/o2RRrMjBZlTJgmK/yjYTTHBA7R7eGgc7sh4DDPPgrsIE_RwTVS4CfsFpJzqdXqBMK-nnMLfrgh2CfeiXy6AGI9-_OpcDC2EX7HTc69fx5i3RkfJxp1tGZCOtKwxVrETAf2bqmt5hL11M9pRG5WmUNYP28bCmNjM13dos5Ev7l-wVhW98B40fxF3N9So-9Pzv8A89kGN3cQJUWOt78dtiy0VAqavyomlPxjqqsiM_bLSlvlQoJDE3srXe2zb2Hf3Fb2XzeBLUx-eCdVELRls9-D-3nbJbZnn4Em08VxgCwRmz53ybWgxXkA/%5B333339%5D%5BL%5D%5BHD%5D.mp4.mp4?stream=1
