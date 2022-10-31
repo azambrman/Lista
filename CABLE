@@ -93,6 +93,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png",SERIES RETRO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png",HECHIZADA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png",RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -106,7 +109,7 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
-http://e10.telerium.link:2052/free10/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAzOjAzOjMyIFBNJmhhc2hfdmFsdWU9RWpTNENxMFRqL3pJOU5Dd0VNUkxjdz09JnZhbGlkbWludXRlcz01JmlkPTg2MTliZDhiZjVkMDU5MjI=
+https://2371755307.tapecontent.net/radosgw/o2RRrMjBZlTJgmK/yjYTTHBA7R7eGgc7sh4DDPPgrsIE_RwTVS4CfsFpJzqdXqBMK-nnMLfrgh2CfeiXy6AGI9-_OpcDC2EX7HTc69fx5i3RkfJxp1tGZCOtKwxVrETAf2bqmt5hL11M9pRG5WmUNYP28bCmNjM13dos5Ev7l-wVhW98B40fxF3N9So-9Pzv8A89kGN3cQJUWOt78dtiy0VAqavyomlPxjqqsiM_bLSlvlQoJDE3srXe2zb2Hf3Fb2XzeBLUx-eCdVELRls9-D-3nbJbZnn4Em08VxgCwRmz53ybWgxXkA/%5B333339%5D%5BL%5D%5BHD%5D.mp4.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/11/Inuyasha-PNG-HD-Image.png",INU 011
 https://s45.openstream.io/hls/qvsbctuumpblgwsztspkayg2leo5xbsx5r72beg73xddeaot67vgioiwkhoq/index-v1-a1.m3u8
