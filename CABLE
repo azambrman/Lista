@@ -10,7 +10,7 @@ http://45.236.28.72:8000/play/a0dq/index.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_Crime_logo.png/640px-Universal_Crime_logo.png",UNIVERSAL CRIME
-http://160.20.164.171:8001/play/a031
+http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/484582
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png",UNIVERSAL REALITY
 http://45.236.28.72:8000/play/a0ek/index.m3u8
@@ -106,10 +106,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c7
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
-https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
 https://sp.rmbl.ws/s8/2/2/Q/e/V/2QeVg.caa.rec.mp4
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/11/Inuyasha-PNG-HD-Image.png",INU 011
-https://www876.ff-02.com/token=if0ZgysQr8IY215VsCG6OA/1672949631/38.25.0.0/98/3/56/069a6fcba1506db4a32f0ec60a34c563-720p.mp4
+https://s45.openstream.io/hls/qvsbctuumpblgwsztspkayg2leo5xbsx5r72beg73xddeaot67vgioiwkhoq/index-v1-a1.m3u8
