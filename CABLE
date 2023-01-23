@@ -102,11 +102,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png",INVESTIGA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Channel_11_%28Zulia%2C_Venezuela%29_logo.svg/800px-Channel_11_%28Zulia%2C_Venezuela%29_logo.svg.png",CANAL 11
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhNWNjMThlZmE3NmJiNDBjZjBiOTUxMmRlMDI4OTVkYSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjc0NTMxMjQ0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.BF2qkz6NwcbYgjEpl88bocGYR9fYmVMuZ28dOiZSSbWqU072e7jkQgHu4jxQfvKqKu9zcTACD_hEnfdiVR5ckNxaFXipBTf8XzsR6k8Y9Kx1i6ZjWiBr4W3xqb76lDsJSuO5x3FYZ_pdxTHxc3g1HPl4L1XRhr5irLLVNSM13OLXBzKUmxH23L9KWIRhXqFCEwtVamYLYp7rMBYIkGa9ShT5V75kMVApW6J3CqGtydEV6ugSIajH7Zs_TXEzcnOYliElB5EfqWc5juh1utgqUh5wKUF81W4lNNzHZYqHFGBFtgaLDNxK-1qupxkKVNjfhkS0g78eEff_Lq4HwS2tMA/manifest/stream_t1_r480001.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TVFAMILIA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thebatman.entradaswb.com/images/tt.png",THE BATMAN
-http://public01.freetraffic.host:2052/freeproxy/3625_TB_2022-720ES/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgODowNTozMyBQTSZoYXNoX3ZhbHVlPW9XNWs3eWt0RXo0NWZySzJjVmtwV2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTg2MTliZDhiZjVkMDU5MjI=
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/TVC_(Ecuador)#/media/Archivo%3ATVCEC.png",TVC
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Scoob_Logo.png",SCOOB!
 https://sp.rmbl.ws/s8/2/2/Q/e/V/2QeVg.caa.rec.mp4
